@@ -166,7 +166,7 @@ export default function ContactSection() {
                 <motion.a
                   whileHover={{ scale: 1.1 }}
                   whileTap={{ scale: 0.95 }}
-                  href="https://linkedin.com/in/alay-patel"
+                  href="https://www.linkedin.com/in/alay-patel-692607224/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 rounded-full bg-gradient-to-br from-professional-100 to-professional-200 text-professional-600 hover:from-professional-200 hover:to-professional-300 transition-all duration-300"
