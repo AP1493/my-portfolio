@@ -46,7 +46,7 @@ export default function Footer() {
             <motion.a
               whileHover={{ scale: 1.1 }}
               whileTap={{ scale: 0.95 }}
-              href="https://linkedin.com/in/alay-patel"
+              href="https://www.linkedin.com/in/alay-patel-692607224/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-full bg-gradient-to-br from-primary/10 to-purple-500/10 text-primary hover:from-primary/20 hover:to-purple-500/20 transition-all duration-300"
