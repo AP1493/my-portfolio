@@ -178,7 +178,7 @@ export default function HeroSection() {
               label="GitHub"
             />
             <SocialButton
-              href="https://linkedin.com/in/alay-patel"
+              href="https://www.linkedin.com/in/alay-patel-692607224/"
               icon={<Linkedin className="h-5 w-5" />}
               label="LinkedIn"
             />
